@@ -1,0 +1,166 @@
+- generic [active] [ref=f39e1]:
+  - generic: 18/09/2026 16:05:36
+  - generic [ref=f39e3]:
+    - generic [ref=f39e4]:
+      - heading "🏦 Sample Banking Application" [level=1] [ref=f39e5]
+      - paragraph [ref=f39e6]: Welcome to the Testers Talk Banking Application
+    - generic [ref=f39e7]:
+      - generic [ref=f39e9]:
+        - button "Transfers" [ref=f39e10] [cursor=pointer]
+        - button "Bill Payments" [ref=f39e11] [cursor=pointer]
+      - generic [ref=f39e15]:
+        - navigation [ref=f39e17]:
+          - link "💰 Account Management" [ref=f39e18] [cursor=pointer]:
+            - /url: "#"
+          - link "💳 Quick Transactions" [ref=f39e19] [cursor=pointer]:
+            - /url: "#"
+          - link "📊 Transaction History" [ref=f39e20] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f39e21]:
+          - text: "* * * *"
+          - generic [ref=f39e199]:
+            - heading "📊 Transaction History" [level=2] [ref=f39e200]
+            - generic [ref=f39e201]:
+              - generic [ref=f39e202]:
+                - generic [ref=f39e203]:
+                  - strong [ref=f39e204]: Transfer to 1234567890
+                  - text: "18/09/2026 Ref: TXN-1789727714523-808"
+                - generic [ref=f39e205]: "-$100.00"
+              - generic [ref=f39e206]:
+                - generic [ref=f39e207]:
+                  - strong [ref=f39e208]: Initial Balance
+                  - text: "18/09/2026 Ref: INIT-001"
+                - generic [ref=f39e209]: +$10000.00
+      - text: "* * * * *"
+  - generic [ref=f39e33]:
+    - generic [ref=f39e34]: "Latest from Testers Talk :"
+    - generic [ref=f39e36]:
+      - generic [ref=f39e37]:
+        - button "Previous Video" [disabled] [ref=f39e38]: ▲
+        - button "Next Video" [ref=f39e39] [cursor=pointer]: ▼
+      - generic [ref=f39e40]:
+        - generic [ref=f39e146]:
+          - generic [ref=f39e147]: "Playwright TypeScript Course PART-01:"
+          - link "Watch on YouTube" [ref=f39e148] [cursor=pointer]:
+            - /url: https://youtu.be/788GvvcfwTY?feature=shared
+          - iframe [ref=f39e149]:
+            - generic "YouTube Video Player" [ref=f114e3]:
+              - generic [ref=f114e6]:
+                - generic:
+                  - generic:
+                    - generic [ref=f114e7] [cursor=pointer]: Meet LoadView – The First & Only Real Browser-Based Load Testing Tool
+                    - link "loadview-testing.com This link opens in new tab" [ref=f114e8] [cursor=pointer]:
+                      - generic [ref=f114e9]: loadview-testing.com
+                  - generic [ref=f114e10]:
+                    - generic [ref=f114e11]: Sponsored ·
+                    - generic [ref=f114e13]: 0:45
+                    - button "My Ad Centre" [ref=f114e16] [cursor=pointer]
+                  - button "Skip" [ref=f114e22] [cursor=pointer]
+              - generic [ref=f114e26]:
+                - generic [ref=f114e27]: simulated estimate of your load
+                - generic [ref=f114e29]: capacity.
+        - generic [ref=f39e150]:
+          - generic [ref=f39e151]: "Playwright TypeScript Course PART-02:"
+          - link "Watch on YouTube" [ref=f39e152] [cursor=pointer]:
+            - /url: https://youtu.be/YfRazDhi9Fw?feature=shared
+          - iframe [ref=f39e153]:
+            - generic "YouTube Video Player" [ref=f115e3]:
+              - generic [ref=f115e6]:
+                - generic:
+                  - generic:
+                    - generic [ref=f115e7] [cursor=pointer]: Meet LoadView – The First & Only Real Browser-Based Load Testing Tool
+                    - link "loadview-testing.com This link opens in new tab" [ref=f115e8] [cursor=pointer]:
+                      - generic [ref=f115e9]: loadview-testing.com
+                  - generic [ref=f115e10]:
+                    - generic [ref=f115e11]: Sponsored ·
+                    - generic [ref=f115e13]: 0:45
+                    - button "My Ad Centre" [ref=f115e16] [cursor=pointer]
+                  - button "Skip" [ref=f115e22] [cursor=pointer]
+              - generic [ref=f115e26]:
+                - generic [ref=f115e27]: simulated estimate of your load
+                - generic [ref=f115e29]: capacity.
+        - generic [ref=f39e154]:
+          - generic [ref=f39e155]: "Playwright TypeScript Course PART-03:"
+          - link "Watch on YouTube" [ref=f39e156] [cursor=pointer]:
+            - /url: https://youtu.be/iGQ-qTLEPLw?feature=shared
+          - iframe [ref=f39e157]:
+            - generic "YouTube Video Player" [ref=f116e3]:
+              - generic [ref=f116e6]:
+                - generic:
+                  - generic:
+                    - generic [ref=f116e7] [cursor=pointer]: Meet LoadView – The First & Only Real Browser-Based Load Testing Tool
+                    - link "loadview-testing.com This link opens in new tab" [ref=f116e8] [cursor=pointer]:
+                      - generic [ref=f116e9]: loadview-testing.com
+                  - generic [ref=f116e10]:
+                    - generic [ref=f116e11]: Sponsored ·
+                    - generic [ref=f116e13]: 0:45
+                    - button "My Ad Centre" [ref=f116e16] [cursor=pointer]
+                  - button "Skip" [ref=f116e22] [cursor=pointer]
+        - generic [ref=f39e158]:
+          - generic [ref=f39e159]: "Playwright TypeScript Course PART-04:"
+          - link "Watch on YouTube" [ref=f39e160] [cursor=pointer]:
+            - /url: https://youtu.be/D44k45N6S58?feature=shared
+          - iframe [ref=f39e161]:
+            - generic "YouTube Video Player" [ref=f117e3]:
+              - generic [ref=f117e6]:
+                - generic:
+                  - generic:
+                    - generic [ref=f117e7] [cursor=pointer]: Meet LoadView – The First & Only Real Browser-Based Load Testing Tool
+                    - link "loadview-testing.com This link opens in new tab" [ref=f117e8] [cursor=pointer]:
+                      - generic [ref=f117e9]: loadview-testing.com
+                  - generic [ref=f117e10]:
+                    - generic [ref=f117e11]: Sponsored ·
+                    - generic [ref=f117e13]: 0:45
+                    - button "My Ad Centre" [ref=f117e16] [cursor=pointer]
+                  - button "Skip" [ref=f117e22] [cursor=pointer]
+        - generic [ref=f39e162]:
+          - generic [ref=f39e163]: "Playwright JavaScript Course PART-01:"
+          - link "Watch on YouTube" [ref=f39e164] [cursor=pointer]:
+            - /url: https://youtu.be/2poXBtifpzA?feature=shared
+          - iframe [ref=f39e165]:
+            - generic "YouTube Video Player" [ref=f118e3]:
+              - generic [ref=f118e6]:
+                - generic:
+                  - generic:
+                    - generic [ref=f118e7] [cursor=pointer]: Meet LoadView – The First & Only Real Browser-Based Load Testing Tool
+                    - link "loadview-testing.com This link opens in new tab" [ref=f118e8] [cursor=pointer]:
+                      - generic [ref=f118e9]: loadview-testing.com
+                  - generic [ref=f118e10]:
+                    - generic [ref=f118e11]: Sponsored ·
+                    - generic [ref=f118e13]: 0:45
+                    - button "My Ad Centre" [ref=f118e16] [cursor=pointer]
+                  - button "Skip" [ref=f118e22] [cursor=pointer]
+        - generic [ref=f39e166]:
+          - generic [ref=f39e167]: "Playwright JavaScript Course PART-02:"
+          - link "Watch on YouTube" [ref=f39e168] [cursor=pointer]:
+            - /url: https://youtu.be/lM-lqPun9P8?feature=shared
+          - iframe [ref=f39e169]:
+            - generic "YouTube Video Player" [ref=f119e3]:
+              - generic [ref=f119e6]:
+                - generic:
+                  - generic:
+                    - generic [ref=f119e7] [cursor=pointer]: Meet LoadView – The First & Only Real Browser-Based Load Testing Tool
+                    - link "loadview-testing.com This link opens in new tab" [ref=f119e8] [cursor=pointer]:
+                      - generic [ref=f119e9]: loadview-testing.com
+                  - generic [ref=f119e10]:
+                    - generic [ref=f119e11]: Sponsored ·
+                    - generic [ref=f119e13]: 0:45
+                    - button "My Ad Centre" [ref=f119e16] [cursor=pointer]
+                  - button "Skip" [ref=f119e22] [cursor=pointer]
+        - generic [ref=f39e170]:
+          - generic [ref=f39e171]: "Playwright JavaScript Course PART-03:"
+          - link "Watch on YouTube" [ref=f39e172] [cursor=pointer]:
+            - /url: https://youtu.be/Exx2M5Pz06g?feature=shared
+          - iframe [ref=f39e173]:
+            - generic "YouTube Video Player" [ref=f120e3]:
+              - generic [ref=f120e6]:
+                - generic:
+                  - generic:
+                    - generic [ref=f120e7] [cursor=pointer]: Meet LoadView – The First & Only Real Browser-Based Load Testing Tool
+                    - link "loadview-testing.com This link opens in new tab" [ref=f120e8] [cursor=pointer]:
+                      - generic [ref=f120e9]: loadview-testing.com
+                  - generic [ref=f120e10]:
+                    - generic [ref=f120e11]: Sponsored ·
+                    - generic [ref=f120e13]: 0:45
+                    - button "My Ad Centre" [ref=f120e16] [cursor=pointer]
+                  - button "Skip" [ref=f120e22] [cursor=pointer]

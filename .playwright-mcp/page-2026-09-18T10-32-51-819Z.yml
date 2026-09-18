@@ -1,0 +1,75 @@
+- generic [ref=e1]:
+  - 'heading "Testers Talk: A Practice Space for Passionate QA Minds" [level=1] [ref=e2]'
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - heading "Login" [level=2] [ref=e6]
+      - generic [ref=e7]:
+        - textbox "Username" [ref=e8]: TestersTalk
+        - textbox "Password" [active] [ref=e9]: TestersTalk
+        - generic [ref=e10]:
+          - generic [ref=e11]: "App Name:"
+          - combobox "App Name:" [ref=e12]:
+            - option "Default"
+            - option "Banking" [selected]
+        - button "Login" [ref=e13] [cursor=pointer]
+        - generic [ref=e14]:
+          - checkbox "Remember me" [ref=e15]
+          - generic [ref=e16]: Remember me
+        - paragraph
+        - generic [ref=e17]:
+          - link " Subscribe for Daily Updates" [ref=e18] [cursor=pointer]:
+            - /url: https://www.youtube.com/@testerstalk?sub_confirmation=1
+            - generic [ref=e19]: 
+            - text: Subscribe for Daily Updates
+          - link " Join LinkedIn Group" [ref=e20] [cursor=pointer]:
+            - /url: https://www.linkedin.com/groups/10393547/
+            - generic [ref=e21]: 
+            - text: Join LinkedIn Group
+          - link " Join Facebook Group" [ref=e22] [cursor=pointer]:
+            - /url: https://www.facebook.com/groups/247868358996762
+            - generic [ref=e23]: 
+            - text: Join Facebook Group
+          - link " Connect on LinkedIn" [ref=e24] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/bakkappa-n
+            - generic [ref=e25]: 
+            - text: Connect on LinkedIn
+        - link "YouTube Playlist + GitHub Repo. + Documents" [ref=e26] [cursor=pointer]:
+          - /url: Testers-Talk-Important-Links.html
+    - generic [ref=e27]:
+      - heading "YouTube FREE Courses" [level=2] [ref=e28]
+      - generic [ref=e29]:
+        - link "Cypress Course" [ref=e51] [cursor=pointer]:
+          - /url: https://youtu.be/oJV5whmzfZI?feature=shared
+        - link "Download Document" [ref=e31] [cursor=pointer]:
+          - /url: FullCourseDocuments/Cypress_FullCourse_by_Testers_Talk_Document.docx
+      - generic [ref=e32]:
+        - button "Previous Video" [ref=e33] [cursor=pointer]: <
+        - iframe [ref=e34]:
+          - generic [ref=f1e1]:
+            - generic "YouTube Video Player" [ref=f1e3]:
+              - generic [ref=f1e7]:
+                - generic [ref=f1e8]: backupayan
+                - generic [ref=f1e10]: GitHub
+            - button "Show player controls" [ref=f1e13] [cursor=pointer]
+        - button "Next Video" [ref=e35] [cursor=pointer]: ">"
+  - text: "* * * *    "
+  - generic [ref=e36]:
+    - generic [ref=e37] [cursor=pointer]:
+      - text: Testers Talk Chatbot
+      - generic [ref=e38]:
+        - button "Minimize" [ref=e39]: –
+        - button "Maximize" [ref=e40]: ◻
+        - button "Close" [ref=e41]: ✕
+    - generic [ref=e42]: 👋 Hi! Type 'Hi' to start a conversation.
+    - generic [ref=e44]:
+      - textbox "Type your message..." [ref=e45]
+      - button "Send" [ref=e46] [cursor=pointer]
+  - generic [ref=e47]:
+    - link "Donate Now" [ref=e48] [cursor=pointer]:
+      - /url: Donate-Now.html
+    - text: "|"
+    - link "Test API's" [ref=e49] [cursor=pointer]:
+      - /url: API-Test-Playground.html
+    - text: "|"
+    - link "Medium Articles" [ref=e50] [cursor=pointer]:
+      - /url: Testers-Talk-Medium-Articles.html

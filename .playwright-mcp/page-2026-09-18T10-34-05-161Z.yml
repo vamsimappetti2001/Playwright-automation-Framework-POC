@@ -1,0 +1,118 @@
+- generic [ref=f39e1]:
+  - generic: 18/09/2026 16:04:04
+  - generic [ref=f39e3]:
+    - generic [ref=f39e4]:
+      - heading "🏦 Sample Banking Application" [level=1] [ref=f39e5]
+      - paragraph [ref=f39e6]: Welcome to the Testers Talk Banking Application
+    - generic [ref=f39e7]:
+      - generic [ref=f39e8]:
+        - generic [ref=f39e9]:
+          - button "Transfers" [ref=f39e10] [cursor=pointer]
+          - button "Bill Payments" [ref=f39e11] [cursor=pointer]
+        - link "Logout" [ref=f39e12] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f39e15]:
+        - navigation [ref=f39e17]:
+          - link "💰 Account Management" [ref=f39e18] [cursor=pointer]:
+            - /url: "#"
+          - link "💳 Quick Transactions" [active] [ref=f39e19] [cursor=pointer]:
+            - /url: "#"
+          - link "📊 Transaction History" [ref=f39e20] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f39e69]:
+          - heading "💳 Quick Transactions" [level=2] [ref=f39e70]
+          - generic [ref=f39e71]:
+            - generic [ref=f39e72]: "Transaction Type: *"
+            - 'combobox "Transaction Type: *" [ref=f39e73] [cursor=pointer]':
+              - option "Select transaction type"
+              - option "Deposit"
+              - option "Withdrawal"
+              - option "Transfer" [selected]
+            - generic [ref=f39e74]: "Amount ($): *"
+            - 'spinbutton "Amount ($): *" [ref=f39e75]'
+            - generic [ref=f39e99]:
+              - text: "Transfer to Account: *"
+              - 'textbox "Transfer to Account: *" [ref=f39e100]':
+                - /placeholder: Enter account number
+            - generic [ref=f39e76]: "Description: *"
+            - 'textbox "Description: *" [ref=f39e77]':
+              - /placeholder: Transaction description
+            - button "Submit" [ref=f39e78] [cursor=pointer]
+      - text: "* * * * *"
+  - generic [ref=f39e33]:
+    - generic [ref=f39e34]: "Latest from Testers Talk :"
+    - generic [ref=f39e36]:
+      - generic [ref=f39e37]:
+        - button "Previous Video" [ref=f39e38] [cursor=pointer]: ▲
+        - button "Next Video" [disabled] [ref=f39e39]: ▼
+      - generic [ref=f39e40]:
+        - generic [ref=f39e79]:
+          - generic [ref=f39e80]: "Cypress Tutorial Full Course:"
+          - link "Watch on YouTube" [ref=f39e81] [cursor=pointer]:
+            - /url: https://youtu.be/oJV5whmzfZI?feature=shared
+          - iframe [ref=f39e82]:
+            - generic [ref=f66e1]:
+              - generic "YouTube Video Player" [ref=f66e3]
+              - generic [ref=f66e6]:
+                - generic:
+                  - generic:
+                    - button "Show player controls" [ref=f66e7] [cursor=pointer]
+                    - generic [ref=f66e12]:
+                      - generic: Testers Talk
+                      - generic: 31.3k subscribers
+        - generic [ref=f39e83]:
+          - generic [ref=f39e84]: "JavaScript For Beginners:"
+          - link "Watch on YouTube" [ref=f39e85] [cursor=pointer]:
+            - /url: https://youtu.be/ACUMZ3OkExQ?feature=shared
+          - iframe [ref=f39e86]:
+            - generic [ref=f67e1]:
+              - generic "YouTube Video Player" [ref=f67e3]
+              - generic [ref=f67e6]:
+                - generic:
+                  - generic:
+                    - button "Show player controls" [ref=f67e7] [cursor=pointer]
+                    - generic [ref=f67e12]:
+                      - generic: Testers Talk
+                      - generic: 31.3k subscribers
+        - generic [ref=f39e87]:
+          - generic [ref=f39e88]: "API Testing Course PART-01:"
+          - link "Watch on YouTube" [ref=f39e89] [cursor=pointer]:
+            - /url: https://youtu.be/QKBa8lt5Wfo?feature=shared
+          - iframe [ref=f39e90]:
+            - generic [ref=f68e1]:
+              - generic "YouTube Video Player" [ref=f68e3]
+              - generic [ref=f68e6]:
+                - generic:
+                  - generic:
+                    - button "Show player controls" [ref=f68e7] [cursor=pointer]
+                    - generic [ref=f68e12]:
+                      - generic: Testers Talk
+                      - generic: 31.3k subscribers
+        - generic [ref=f39e91]:
+          - generic [ref=f39e92]: "API Testing Course PART-02:"
+          - link "Watch on YouTube" [ref=f39e93] [cursor=pointer]:
+            - /url: https://youtu.be/o9KJhGHl49M?feature=shared
+          - iframe [ref=f39e94]:
+            - generic [ref=f69e1]:
+              - generic "YouTube Video Player" [ref=f69e3]
+              - generic [ref=f69e6]:
+                - generic:
+                  - generic:
+                    - button "Show player controls" [ref=f69e7] [cursor=pointer]
+                    - generic [ref=f69e12]:
+                      - generic: Testers Talk
+                      - generic: 31.3k subscribers
+        - generic [ref=f39e95]:
+          - generic [ref=f39e96]: "API Testing Course PART-03:"
+          - link "Watch on YouTube" [ref=f39e97] [cursor=pointer]:
+            - /url: https://youtu.be/kay86__5eTg?feature=shared
+          - iframe [ref=f39e98]:
+            - generic [ref=f70e1]:
+              - generic "YouTube Video Player" [ref=f70e3]
+              - generic [ref=f70e6]:
+                - generic:
+                  - generic:
+                    - button "Show player controls" [ref=f70e7] [cursor=pointer]
+                    - generic [ref=f70e12]:
+                      - generic: Testers Talk
+                      - generic: 31.3k subscribers

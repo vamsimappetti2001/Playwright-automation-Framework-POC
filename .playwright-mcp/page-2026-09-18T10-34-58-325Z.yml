@@ -1,0 +1,81 @@
+- generic [active] [ref=f39e1]:
+  - generic: 18/09/2026 16:04:38
+  - generic [ref=f39e3]:
+    - generic [ref=f39e4]:
+      - heading "🏦 Sample Banking Application" [level=1] [ref=f39e5]
+      - paragraph [ref=f39e6]: Welcome to the Testers Talk Banking Application
+    - generic [ref=f39e7]:
+      - generic [ref=f39e8]:
+        - generic [ref=f39e9]:
+          - button "Transfers" [ref=f39e10] [cursor=pointer]
+          - button "Bill Payments" [ref=f39e11] [cursor=pointer]
+        - link "Logout" [ref=f39e12] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f39e15]:
+        - navigation [ref=f39e17]:
+          - link "💰 Account Management" [ref=f39e18] [cursor=pointer]:
+            - /url: "#"
+          - link "💳 Quick Transactions" [ref=f39e19] [cursor=pointer]:
+            - /url: "#"
+          - link "📊 Transaction History" [ref=f39e20] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f39e21]:
+          - text: "* * * *"
+          - generic [ref=f39e101]:
+            - heading "🔍 Transaction Confirmation" [level=2] [ref=f39e102]
+            - generic [ref=f39e103]:
+              - generic [ref=f39e104]:
+                - generic [ref=f39e105]:
+                  - generic [ref=f39e106]: "Transaction Type:"
+                  - generic [ref=f39e107]: Transfer
+                - generic [ref=f39e108]:
+                  - generic [ref=f39e109]: "Amount:"
+                  - generic [ref=f39e110]: $100.00
+                - generic [ref=f39e111]:
+                  - generic [ref=f39e112]: "Description:"
+                  - generic [ref=f39e113]: Playwright transfer test
+                - generic [ref=f39e114]:
+                  - generic [ref=f39e115]: "Transfer To Account:"
+                  - generic [ref=f39e116]: "1234567890"
+                - generic [ref=f39e117]:
+                  - generic [ref=f39e118]: "Current Balance:"
+                  - generic [ref=f39e119]: $10000.00
+                - generic [ref=f39e120]:
+                  - generic [ref=f39e121]: "New Balance After Transaction:"
+                  - generic [ref=f39e122]: $9900.00
+              - generic [ref=f39e123]:
+                - button "Back" [ref=f39e124] [cursor=pointer]
+                - button "Confirm" [ref=f39e125] [cursor=pointer]
+      - text: "* * * * *"
+  - generic [ref=f39e33]:
+    - generic [ref=f39e34]: "Latest from Testers Talk :"
+    - generic [ref=f39e36]:
+      - generic [ref=f39e37]:
+        - button "Previous Video" [ref=f39e38] [cursor=pointer]: ▲
+        - button "Next Video" [disabled] [ref=f39e39]: ▼
+      - generic [ref=f39e40]:
+        - generic [ref=f39e126]:
+          - generic [ref=f39e127]: "Cypress Tutorial Full Course:"
+          - link "Watch on YouTube" [ref=f39e128] [cursor=pointer]:
+            - /url: https://youtu.be/oJV5whmzfZI?feature=shared
+          - iframe [ref=f39e129]
+        - generic [ref=f39e130]:
+          - generic [ref=f39e131]: "JavaScript For Beginners:"
+          - link "Watch on YouTube" [ref=f39e132] [cursor=pointer]:
+            - /url: https://youtu.be/ACUMZ3OkExQ?feature=shared
+          - iframe [ref=f39e133]
+        - generic [ref=f39e134]:
+          - generic [ref=f39e135]: "API Testing Course PART-01:"
+          - link "Watch on YouTube" [ref=f39e136] [cursor=pointer]:
+            - /url: https://youtu.be/QKBa8lt5Wfo?feature=shared
+          - iframe [ref=f39e137]
+        - generic [ref=f39e138]:
+          - generic [ref=f39e139]: "API Testing Course PART-02:"
+          - link "Watch on YouTube" [ref=f39e140] [cursor=pointer]:
+            - /url: https://youtu.be/o9KJhGHl49M?feature=shared
+          - iframe [ref=f39e141]
+        - generic [ref=f39e142]:
+          - generic [ref=f39e143]: "API Testing Course PART-03:"
+          - link "Watch on YouTube" [ref=f39e144] [cursor=pointer]:
+            - /url: https://youtu.be/kay86__5eTg?feature=shared
+          - iframe [ref=f39e145]
