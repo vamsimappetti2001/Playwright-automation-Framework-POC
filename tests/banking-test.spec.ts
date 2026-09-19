@@ -18,3 +18,16 @@ test('Verify Quick Transactions Flow', async ({ page }) => {
   const historyPage = await quickTransactionPage.openHistory();
   await historyPage.expectTransactionReference(reference);
 });
+
+test('Verify transfer and bill payment tabs on homepage', async ({ page }) => {
+  test.setTimeout(120_000);
+
+  await page.route(/youtube\.com|youtube-nocookie\.com|ytimg\.com|googlevideo\.com|doubleclick\.net/, route => route.abort());
+
+  const loginPage = new LoginPage(page);
+
+  await loginPage.open(config.url);
+  const loggedInHomePage = await loginPage.loginAs(config.username, config.password, config.appName);
+  await loggedInHomePage.expectLoaded();
+  await loggedInHomePage.expectTransferAndBillPaymentTabsVisible();
+});

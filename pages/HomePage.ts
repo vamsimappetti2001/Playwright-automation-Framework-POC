@@ -13,6 +13,11 @@ export class HomePage extends BasePage {
     await expect(this.page.getByText('Welcome to the Testers Talk Banking Application')).toBeVisible({ timeout: 10_000 });
   }
 
+  async expectTransferAndBillPaymentTabsVisible(): Promise<void> {
+    await expect(this.getButton('Transfers')).toBeVisible({ timeout: 10_000 });
+    await expect(this.getButton('Bill Payments')).toBeVisible({ timeout: 10_000 });
+  }
+
   async openQuickTransactions(): Promise<QuickTransactionPage> {
     await this.clickLink('💳 Quick Transactions');
 
