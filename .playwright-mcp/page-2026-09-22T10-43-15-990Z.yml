@@ -1,0 +1,312 @@
+- generic [ref=f5e2]:
+  - link "Skip to Content" [ref=f5e3] [cursor=pointer]:
+    - /url: "#wrap"
+  - banner [ref=f5e4]:
+    - navigation "Main" [ref=f5e5]:
+      - generic [ref=f5e6]:
+        - link [ref=f5e7] [cursor=pointer]:
+          - /url: /
+          - img "Logo of GreenKart" [ref=f5e8]:
+            - img "GreenKart" [ref=f5e9]
+        - menu [ref=f5e10]:
+          - menuitem "Shop" [ref=f5e11] [cursor=pointer]
+          - menuitem "Pricing Plan" [ref=f5e12] [cursor=pointer]
+          - menuitem "About Us" [ref=f5e13] [cursor=pointer]
+          - menuitem "Blog" [ref=f5e14] [cursor=pointer]
+        - list [ref=f5e15]:
+          - listitem [ref=f5e16]:
+            - link "eCommerce cart" [ref=f5e17] [cursor=pointer]:
+              - /url: /shop/cart
+              - generic [ref=f5e18]: 
+          - text: 
+          - listitem [ref=f5e20]:
+            - button "English (IN)" [expanded] [ref=f5e22] [cursor=pointer]
+          - listitem [ref=f5e23]:
+            - link "Contact Us" [ref=f5e27] [cursor=pointer]:
+              - /url: /contactus
+    - text:  
+  - main [ref=f5e28]:
+    - generic [ref=f5e30]:
+      - generic [ref=f5e31]:
+        - complementary [ref=f5e32]:
+          - generic:
+            - generic:
+              - paragraph
+          - generic [ref=f5e33]:
+            - generic [ref=f5e35]:
+              - heading [level=6] [ref=f5e36]:
+                - button "Categories" [expanded] [ref=f5e37] [cursor=pointer]
+              - list [ref=f5e40]:
+                - listitem [ref=f5e41]:
+                  - link "All Products" [ref=f5e42] [cursor=pointer]:
+                    - /url: /shop
+                - listitem [ref=f5e43]:
+                  - link "Bundles" [ref=f5e45] [cursor=pointer]:
+                    - /url: /shop/category/bundles-8
+                - listitem [ref=f5e46]:
+                  - link "Exotic" [ref=f5e48] [cursor=pointer]:
+                    - /url: /shop/category/exotic-5
+                - listitem [ref=f5e49]:
+                  - link "Fruits" [ref=f5e51] [cursor=pointer]:
+                    - /url: /shop/category/fruits-1
+                - listitem [ref=f5e52]:
+                  - link "Leaf" [ref=f5e54] [cursor=pointer]:
+                    - /url: /shop/category/leaf-4
+                - listitem [ref=f5e55]:
+                  - generic [ref=f5e56]:
+                    - link "Vegetables" [ref=f5e57] [cursor=pointer]:
+                      - /url: /shop/category/vegetables-2
+                    - button [ref=f5e58] [cursor=pointer]
+            - generic [ref=f5e60]:
+              - button "Price Range" [expanded] [ref=f5e62] [cursor=pointer]
+              - generic [ref=f5e65]:
+                - generic [ref=f5e66]:
+                  - generic [ref=f5e67]: ₹ 30.00
+                  - generic [ref=f5e68]: ₹ 300.00
+                - slider: "30"
+                - slider: "300"
+            - generic:
+              - generic:
+                - paragraph
+        - generic [ref=f5e69]:
+          - generic [ref=f5e70]:
+            - list [ref=f5e71]:
+              - listitem [ref=f5e72]:
+                - link "Products" [ref=f5e73] [cursor=pointer]:
+                  - /url: /shop
+              - listitem [ref=f5e74]:
+                - text: /
+                - generic [ref=f5e75]: Fruits
+            - generic [ref=f5e76]: Fresh, juicy fruits delivered to your doorstep for a healthy lifestyle.
+          - generic [ref=f5e78]:
+            - article "Kiwi" [ref=f5e81]:
+              - link [ref=f5e83] [cursor=pointer]:
+                - /url: /shop/fruits-1/kiwi-40
+                - img "Kiwi" [ref=f5e85]
+                - img "OIP.webp" [ref=f5e87]
+              - generic [ref=f5e88]:
+                - generic [ref=f5e90]:
+                  - heading [level=2] [ref=f5e91]:
+                    - link "Kiwi" [ref=f5e92] [cursor=pointer]:
+                      - /url: /shop/fruits-1/kiwi-40
+                  - generic [ref=f5e94]:
+                    - img [ref=f5e95]: 
+                    - img [ref=f5e96]: 
+                    - img [ref=f5e97]: 
+                    - img [ref=f5e98]: 
+                    - img [ref=f5e99]: 
+                    - text: (0)
+                - generic [ref=f5e100]:
+                  - generic "Price information" [ref=f5e101]:
+                    - generic "Sale price" [ref=f5e102]: ₹ 30.00
+                  - generic [ref=f5e103]:
+                    - generic [ref=f5e104]:
+                      - button "Add to cart" [ref=f5e105] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e106]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e107] [cursor=pointer]
+            - article "Anar" [ref=f5e110]:
+              - link [ref=f5e112] [cursor=pointer]:
+                - /url: /shop/fruits-1/anar-39
+                - img "Anar" [ref=f5e114]
+                - img "OIP.webp" [ref=f5e116]
+              - generic [ref=f5e117]:
+                - generic [ref=f5e119]:
+                  - heading [level=2] [ref=f5e120]:
+                    - link "Anar" [ref=f5e121] [cursor=pointer]:
+                      - /url: /shop/fruits-1/anar-39
+                  - generic [ref=f5e123]:
+                    - img [ref=f5e124]: 
+                    - img [ref=f5e125]: 
+                    - img [ref=f5e126]: 
+                    - img [ref=f5e127]: 
+                    - img [ref=f5e128]: 
+                    - text: (0)
+                - generic [ref=f5e129]:
+                  - generic "Price information" [ref=f5e130]:
+                    - generic "Sale price" [ref=f5e131]: ₹ 100.00
+                  - generic [ref=f5e132]:
+                    - generic [ref=f5e133]:
+                      - button "Add to cart" [ref=f5e134] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e135]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e136] [cursor=pointer]
+            - article "Pineapple" [ref=f5e139]:
+              - link [ref=f5e141] [cursor=pointer]:
+                - /url: /shop/fruits-1/pineapple-42
+                - img "Pineapple" [ref=f5e143]
+                - img "OIP.webp" [ref=f5e145]
+              - generic [ref=f5e146]:
+                - generic [ref=f5e148]:
+                  - heading [level=2] [ref=f5e149]:
+                    - link "Pineapple" [ref=f5e150] [cursor=pointer]:
+                      - /url: /shop/fruits-1/pineapple-42
+                  - generic [ref=f5e152]:
+                    - img [ref=f5e153]: 
+                    - img [ref=f5e154]: 
+                    - img [ref=f5e155]: 
+                    - img [ref=f5e156]: 
+                    - img [ref=f5e157]: 
+                    - text: (0)
+                - generic [ref=f5e158]:
+                  - generic "Price information" [ref=f5e159]:
+                    - generic "Sale price" [ref=f5e160]: ₹ 40.00
+                  - generic [ref=f5e161]:
+                    - generic [ref=f5e162]:
+                      - button "Add to cart" [ref=f5e163] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e164]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e165] [cursor=pointer]
+            - article "Banana / kela" [ref=f5e168]:
+              - link [ref=f5e170] [cursor=pointer]:
+                - /url: /shop/fruits-1/banana-kela-38
+                - img "Banana / kela" [ref=f5e172]
+                - img "OIP.webp" [ref=f5e174]
+              - generic [ref=f5e175]:
+                - generic [ref=f5e177]:
+                  - heading [level=2] [ref=f5e178]:
+                    - link "Banana / kela" [ref=f5e179] [cursor=pointer]:
+                      - /url: /shop/fruits-1/banana-kela-38
+                  - generic [ref=f5e181]:
+                    - img [ref=f5e182]: 
+                    - img [ref=f5e183]: 
+                    - img [ref=f5e184]: 
+                    - img [ref=f5e185]: 
+                    - img [ref=f5e186]: 
+                    - text: (0)
+                - generic [ref=f5e187]:
+                  - generic "Price information" [ref=f5e188]:
+                    - generic "Sale price" [ref=f5e189]: ₹ 60.00
+                  - generic [ref=f5e190]:
+                    - generic [ref=f5e191]:
+                      - button "Add to cart" [ref=f5e192] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e193]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e194] [cursor=pointer]
+            - article "Apple" [ref=f5e197]:
+              - link [ref=f5e199] [cursor=pointer]:
+                - /url: /shop/fruits-1/apple-37
+                - img "Apple" [ref=f5e201]
+                - img "OIP.webp" [ref=f5e203]
+              - generic [ref=f5e204]:
+                - generic [ref=f5e206]:
+                  - heading [level=2] [ref=f5e207]:
+                    - link "Apple" [ref=f5e208] [cursor=pointer]:
+                      - /url: /shop/fruits-1/apple-37
+                  - generic [ref=f5e210]:
+                    - img [ref=f5e211]: 
+                    - img [ref=f5e212]: 
+                    - img [ref=f5e213]: 
+                    - img [ref=f5e214]: 
+                    - img [ref=f5e215]: 
+                    - text: (0)
+                - generic [ref=f5e216]:
+                  - generic "Price information" [ref=f5e217]:
+                    - generic "Sale price" [ref=f5e218]: ₹ 290.00
+                  - generic [ref=f5e219]:
+                    - generic [ref=f5e220]:
+                      - button "Add to cart" [ref=f5e221] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e222]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e223] [cursor=pointer]
+            - article "mango / aam" [ref=f5e226]:
+              - link [ref=f5e228] [cursor=pointer]:
+                - /url: /shop/fruits-1/mango-aam-22
+                - img "mango / aam" [ref=f5e230]
+                - img "mangoe.webp" [ref=f5e232]
+              - generic [ref=f5e233]:
+                - generic [ref=f5e235]:
+                  - heading [level=2] [ref=f5e236]:
+                    - link "mango / aam" [ref=f5e237] [cursor=pointer]:
+                      - /url: /shop/fruits-1/mango-aam-22
+                  - generic [ref=f5e239]:
+                    - img [ref=f5e240]: 
+                    - img [ref=f5e241]: 
+                    - img [ref=f5e242]: 
+                    - img [ref=f5e243]: 
+                    - img [ref=f5e244]: 
+                    - text: (0)
+                - generic [ref=f5e245]:
+                  - generic "Price information" [ref=f5e246]:
+                    - generic "Sale price" [ref=f5e247]: ₹ 90.00
+                  - generic [ref=f5e248]:
+                    - generic [ref=f5e249]:
+                      - button "Add to cart" [ref=f5e250] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e251]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e252] [cursor=pointer]
+            - article "Black Berry / jamun" [ref=f5e255]:
+              - link [ref=f5e257] [cursor=pointer]:
+                - /url: /shop/fruits-1/black-berry-jamun-20
+                - img "Black Berry / jamun" [ref=f5e259]
+              - generic [ref=f5e260]:
+                - generic [ref=f5e262]:
+                  - heading [level=2] [ref=f5e263]:
+                    - link "Black Berry / jamun" [ref=f5e264] [cursor=pointer]:
+                      - /url: /shop/fruits-1/black-berry-jamun-20
+                  - generic [ref=f5e266]:
+                    - img [ref=f5e267]: 
+                    - img [ref=f5e268]: 
+                    - img [ref=f5e269]: 
+                    - img [ref=f5e270]: 
+                    - img [ref=f5e271]: 
+                    - text: (0)
+                - generic [ref=f5e272]:
+                  - generic "Price information" [ref=f5e273]:
+                    - generic "Sale price" [ref=f5e274]: ₹ 50.00
+                  - generic [ref=f5e275]:
+                    - generic [ref=f5e276]:
+                      - button "Add to cart" [ref=f5e277] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e278]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e279] [cursor=pointer]
+            - article "papaya / Papita" [ref=f5e282]:
+              - link [ref=f5e284] [cursor=pointer]:
+                - /url: /shop/fruits-1/papaya-papita-15
+                - img "papaya / Papita" [ref=f5e286]
+                - img "OIP.dQ5XSF7CFc4B9Tb9NU_D6QHaLH" [ref=f5e288]
+                - generic: Sale
+              - generic [ref=f5e289]:
+                - generic [ref=f5e291]:
+                  - heading [level=2] [ref=f5e292]:
+                    - link "papaya / Papita" [ref=f5e293] [cursor=pointer]:
+                      - /url: /shop/fruits-1/papaya-papita-15
+                  - generic [ref=f5e295]:
+                    - img [ref=f5e296]: 
+                    - img [ref=f5e297]: 
+                    - img [ref=f5e298]: 
+                    - img [ref=f5e299]: 
+                    - img [ref=f5e300]: 
+                    - text: (0)
+                - generic [ref=f5e301]:
+                  - generic "Price information" [ref=f5e302]:
+                    - generic "Sale price" [ref=f5e303]: ₹ 50.00
+                  - generic [ref=f5e304]:
+                    - generic [ref=f5e305]:
+                      - button "Add to cart" [ref=f5e306] [cursor=pointer]:
+                        - text: 
+                        - generic [ref=f5e307]: Add to Cart
+                      - text: 
+                    - button "" [ref=f5e308] [cursor=pointer]
+        - navigation [ref=f5e310]:
+          - button "Search Products" [ref=f5e312] [cursor=pointer]:
+            - img [ref=f5e313]: 
+          - 'button "Sort By: Newest Arrivals" [ref=f5e316] [cursor=pointer]':
+            - text: "Sort By:"
+            - generic [ref=f5e317]: Newest Arrivals
+          - text: 
+      - generic [ref=f5e318]:
+        - generic [ref=f5e319]:
+          - generic [ref=f5e320]: ₹ 30.00
+          - generic [ref=f5e321]: ₹ 300.00
+        - slider: "30"
+        - slider: "300"
+    - text: 
+  - contentinfo
