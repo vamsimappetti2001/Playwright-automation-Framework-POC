@@ -1,2 +1,0 @@
-﻿# Playwright-automation-Framework-POC
-
